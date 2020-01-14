@@ -1,0 +1,4 @@
+2019-12-23 14:18:13 [main] INFO  com.designpattern.log.Logback -
+				Made a deposit
+2019-12-23 14:18:13 [main] INFO  com.designpattern.log.Logback -
+				Made a withdrawal

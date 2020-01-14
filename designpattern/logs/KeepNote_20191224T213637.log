@@ -1,0 +1,4 @@
+2019-12-24 21:36:38 [main] INFO  c.d.log.singleton.Logback -
+				Made a deposit
+2019-12-24 21:36:38 [main] INFO  c.d.log.singleton.Logback -
+				Made a withdrawal
